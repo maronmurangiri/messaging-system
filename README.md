@@ -52,7 +52,7 @@ Before you begin, ensure you have the following installed on your local machine:
 # Getting Started
 Follow these steps to set up and run the messaging system backend on your local machine:
   ## Clone the Repository:
-   bash : *git clone https://github.com/your-username/messaging-system-backend.git*
+   bash : *git clone https://github.com/maronmurangiri/messaging-system.git*
   
   ## Navigate to the Project Directory:
    bash  : *cd messaging-system-backend*
